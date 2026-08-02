@@ -1,0 +1,11 @@
+# Virtual Environment
+env
+
+# python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Database
+db.sqlite3
+
