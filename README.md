@@ -193,8 +193,6 @@ The API uses Django's `bulk_create()` to efficiently insert multiple transaction
 Tested the API using:
 
 - Postman
-
-
 ---
 
 ## Future Improvements
@@ -210,6 +208,10 @@ Tested the API using:
 ## Project images
 
 ![initial_project_setup](screenshots/project_setup.png)
+
+
+![models_&_admin_setup](screenshots/admin_models.png)
+
 
 ## Author
 
