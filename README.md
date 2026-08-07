@@ -220,11 +220,11 @@ Tested the API using:
 ![Create_multiple_accounts](screenshots/three_accounts.png)
 
 ## 3. Validation Tests
-[Invalid Transaction Type](screenshots/invalid_transaction_type.png)
+![Invalid Transaction Type](screenshots/invalid_transaction_type.png)
 
-[Account_number Missing](screenshots/missing_acc_number.png)
+![Account_number Missing](screenshots/missing_acc_number.png)
 
-[Invalid Amount](screenshots/invalid_amount.png)
+![Invalid Amount](screenshots/invalid_amount.png)
 
 
 
