@@ -207,10 +207,26 @@ Tested the API using:
 
 ## Project images
 
+## 1. Project setup
+
 ![initial_project_setup](screenshots/project_setup.png)
 
 
 ![models_&_admin_setup](screenshots/admin_models.png)
+
+
+## 2. Succesfull Requests
+![Account & Nested Transactions](screenshots/successful_response.png)
+![Create_multiple_accounts](screenshots/three_accounts.png)
+
+## 3. Validation Tests
+[Invalid Transaction Type](screenshots/invalid_transaction_type.png)
+
+[Account_number Missing](screenshots/missing_acc_number.png)
+
+[Invalid Amount](screenshots/invalid_amount.png)
+
+
 
 
 ## Author

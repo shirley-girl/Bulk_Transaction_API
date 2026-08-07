@@ -24,5 +24,5 @@ class AccountSerializer(serializers.ModelSerializer):
             'transactions',
         ]
 
-class BulkTransactionSerilizer(serializers.Serializer):
+class BulkTransactionSerializer(serializers.Serializer):
     accounts = AccountSerializer(many=True)
